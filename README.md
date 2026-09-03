@@ -1,0 +1,1 @@
+Démonstration des différents effets physiques. Voir comme référence la page des notes de cours sur [les collisions et la physique](https://cours-alexandre-ouellet.github.io/jeux-3d/programmer/collisions/).
